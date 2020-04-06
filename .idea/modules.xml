@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScreenMirror-WClingDemo.iml" filepath="$PROJECT_DIR$/ScreenMirror-WClingDemo.iml" group="WClingDemo" />
       <module fileurl="file://$PROJECT_DIR$/WClingDemo.iml" filepath="$PROJECT_DIR$/WClingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/WClingDemo-app.iml" filepath="$PROJECT_DIR$/app/WClingDemo-app.iml" group="WClingDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
